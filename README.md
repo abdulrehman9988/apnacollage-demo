@@ -1,2 +1,4 @@
 # apnacollage-demo
-this is my first git Repository.Author-Abdulrehman Gharade 
+this is my first git Repository.
+<br>
+Author-Abdulrehman Gharade 
