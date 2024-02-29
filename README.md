@@ -1,4 +1,4 @@
 # apnacollage-demo
 this is my first git Repository.
 <br>
-Author-Abdulrehman Gharade 
+Author-Abdulrehman Gharade (nigdi, pabhre)
